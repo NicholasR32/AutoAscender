@@ -27,4 +27,5 @@ Notes:
 
 *Ta-da!*
 
+
 ![Auto Ascender in action.](https://github.com/NicholasR32/AutoAscender/blob/main/imgs/autoascender.gif)
