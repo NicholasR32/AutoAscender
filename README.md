@@ -26,4 +26,4 @@ Notes:
 - This still takes several hours (around 5) to get the achievement, and is best done when AFK since you can't use your mouse at the same time. But at least you don't have to sit around and click the same buttons for 5 hours!
 
 *Ta-da!*
-![Auto Ascender in action.](https://github.com/NicholaR32/AutoAscender/imgs/autoascender.gif)
+![Auto Ascender in action.](https://github.com/NicholasR32/AutoAscender/blob/main/imgs/autoascender.gif)
