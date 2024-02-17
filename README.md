@@ -8,7 +8,7 @@
 I learned [AutoHotkey](https://www.autohotkey.com/docs/v2/) at a basic level and wrote a script to automate this. Hooray.
 
 ## How it works
-- Repeat the following for how many runs you need to reach 1000:
+- The script does the following for how many runs you need to reach 1000:
     - Buy this round of upgrades 5-6 times:
         - On a fresh ascension, move the mouse and click the "Buy All Upgrades" button.
         - Move the mouse to collapse the upgrade list.
@@ -18,12 +18,15 @@ I learned [AutoHotkey](https://www.autohotkey.com/docs/v2/) at a basic level and
     - Move the mouse to the Legacy button, and press Enter to ascend.
     - Press Esc to cancel the animation of the big cookie shattering, saving valuable seconds.
     - In the heavenly shop, click Reincarnate, and press Enter to confirm.
-    - That's 1 out of 1000.
+    - That's 1 out of 1000 ascensions.
+
+This script was heavily inspired by Steam user Finnquaza's [Ascension Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2591077269), which recommends completing Endless cycle once you have around 17 trillion prestige levels. I wanted to continue progressing without having to deal with this achievement getting harder, and figured learning how to automate it would be faster.
 
 Notes:
 - An ascension doesn't count towards this achievement if you don't gain at least one prestige level, hence why you must buy enough buildings and upgrades to reach the required CpS.
 - I put brief 100ms delays between most inputs, just to make the overall system a little less janky, as sometimes the macro can be too fast for the game.
 - This still takes several hours (around 5) to get the achievement, and is best done when AFK since you can't use your mouse at the same time. But at least you don't have to sit around and click the same buttons for 5 hours!
+- I'll try pyautogui next time I automate something. It also has a nice failsafe built in.
 
 *Ta-da!*
 
